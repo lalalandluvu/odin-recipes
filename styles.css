@@ -1,0 +1,69 @@
+@font-face {
+    font-family: 'RPT';
+    src: url(RaspoutineClassic_TB.woff);
+}
+
+.odin-recipes {
+    background-color:rgb(236, 24, 24);
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding:5px;
+    margin: 5px;
+    text-align: center;
+}
+
+.recipe-list{
+    background-color: green ;
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    padding:5px;
+    margin: 10px 5px;
+    list-style-position: inside;
+}
+
+.recipe-title {
+    background-color:white;
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    padding:5px;
+    margin: 10px 5px;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    border-radius: ;
+    text-align: center;
+}
+
+.image{
+    display:block;
+    margin:10px auto;
+    border: 2px solid gold;
+    
+}    
+
+.title {
+    background-color: blanchedalmond;
+    font-family: Arial, Helvetica, sans-serif;
+    padding:5px;
+    margin: 10px 5px 0px 5px;
+}
+
+.description-content {
+    background-color:blanchedalmond;
+    font-family: 'RPT','Brush Script MT',cursive;
+    padding:5px;
+    margin: 0px 5px 10px 5px;
+}
+
+.list{
+    background-color: blanchedalmond;
+    font-family: 'RPT','Brush Script MT',cursive;
+    padding:5px;
+    margin: 0px 5px 10px 5px;
+    list-style-position: inside;
+}
+
+.home{
+    display:block;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
