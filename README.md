@@ -1,2 +1,3 @@
 # odin-recipes
-Do not know what I am gonna do in this project but looking forward!
+Practice project under the odin project
+See the live website at: https://lalalandluvu.github.io/odin-recipes/index.html
